@@ -1,6 +1,6 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
+  "name": "react-starting-template",
+  "version": "0.1.0",
   "description": "Standard React App",
   "scripts": {
     "dev": "NODE_PATH=. next dev",
@@ -12,7 +12,7 @@
     "lint": "eslint --ext .js,.jsx pages components context hooks __tests__ --fix",
     "fmt": "prettier --write '{pages,components,context,hooks,__tests__}/**/*.{jsx,js}'"
   },
-  "author": "Miggy",
+  "author": "Miggy Reyes",
   "license": "ISC",
   "dependencies": {
     "axios": "0.18.0",
